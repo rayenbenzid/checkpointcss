@@ -1,0 +1,157 @@
+nav img{
+    width: 280px;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+nav{
+    display: flex;
+    width: 65%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.making_section{
+    width: 65%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0% auto;
+    flex-direction: column;
+}
+.making_section img{
+    width: 65px;
+
+}
+.making_section div{
+    display: flex;
+
+}
+.paragraphs{
+    display: flex;
+    gap: 10px;
+    margin: 0% auto;
+    width: 65%;
+    justify-content: center;
+}
+
+.card{
+    background-color: #00b39b;
+    width: 25%;
+    margin: 0 auto;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    border: 10px;
+    color: white;
+
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card select{
+    background-color: transparent;
+    border: none;
+    outline: none;
+
+}
+
+.card2{
+    background-color: #3d83df;
+}
+
+.card3{
+    background-color: #747474;
+}
+
+.improve{
+    justify-content: center;
+    width: 50%;
+    margin: 0% auto;
+    color: grey;
+
+}
+
+.improve h1{
+    width: 40%;
+    margin: 0 auto;
+    justify-content: center; 
+    text-align: center;
+
+}
+
+.country div{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    align-items: center;
+}
+
+.countries{
+    width: 65%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.country{
+    width: 28%;
+}
+
+.country img{
+    width: 100%;
+}
+
+.country button{
+    background-color: rgb(71, 71, 223);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+}
+
+.country button:hover{
+    background-color: rgb(2, 2, 48);
+}
+
+.join{
+    width: 40%;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.join button{
+    background-color: rgb(71,71, 223);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    height: 35px;
+}
+
+.end{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.end ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+.end h1{
+    font-size: 16px;
+    font-weight: 300;
+    color: grey;
+}
